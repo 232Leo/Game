@@ -1,7 +1,7 @@
 .grid {
   width: 400px;
   height:600px;
-  background-color: yellow;
+  background-color: white;
   position: relative;
   font-size: 100px;
   text-align: center;
@@ -10,7 +10,7 @@
 .doodler {
   width: 60px;
   height: 85px;
-  background-color: red;
+  background-color: lightgreen;
   background-image: url('');
   position: absolute;
 }
