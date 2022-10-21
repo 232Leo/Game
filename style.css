@@ -1,7 +1,12 @@
 .grid {
   width: 400px;
   height:600px;
-  background-color: white;
+  background-color: ;
+  background-image: url('https://staticc.sportskeeda.com/editor/2022/04/981fe-16500906767485-1920.jpg');
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
   position: relative;
   font-size: 100px;
   text-align: center;
@@ -11,7 +16,11 @@
   width: 60px;
   height: 85px;
   background-color: lightgreen;
-  background-image: url('');
+  background-image: url('https://cdn.donmai.us/original/3f/3f/__tarnished_and_bloody_wolf_elden_ring__3f3f084c3e5b17798290eb6ec6db9bdb.jpg');
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
   position: absolute;
 }
 
